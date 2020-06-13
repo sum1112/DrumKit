@@ -1,1 +1,2 @@
-# DrumKit
+This is a simple drum game where you can press key and hear some drum sound with animation.You may visit () to enjoy some drum 
+sound...
